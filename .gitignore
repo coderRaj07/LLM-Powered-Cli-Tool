@@ -21,6 +21,7 @@ virtualenv/
 .env
 .env.*
 *.env
+!.env.example
 
 # =========================
 # Build / distribution
