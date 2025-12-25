@@ -1,85 +1,66 @@
 [
   {
     "userId": "u_121212",
-    "survey": "Event Evaluation Survey",
-    "answers": {
-      "q1": "Good",
-      "q2": "I enjoyed the variety of topics covered and the opportunity to network with other professionals in the field.",
-      "q3": [
-        "Networking Opportunities",
-        "Workshops and Sessions"
-      ],
-      "q4": "Consider offering more interactive sessions and providing a mobile app for attendees to access event information and connect with each other.",
-      "q5": "Likely",
-      "q6": "The event was well-organized, and the venue was convenient. However, the food options could be improved.",
-      "q7": "Social Media"
-    }
-  },
-  {
-    "userId": "u_131313",
-    "survey": "Employee Engagement Survey",
+    "survey": "Customer Satisfaction Survey",
     "answers": {
       "q1": "Satisfied",
-      "q2": "I enjoy the collaborative environment and the opportunities for growth and development.",
+      "q2": "The user interface was intuitive and easy to navigate, which made it simple for me to find the features I needed.",
       "q3": [
-        "Health Insurance",
-        "Paid Time Off"
+        "Feature A",
+        "Feature C"
       ],
-      "q4": "I think providing more training and development opportunities would be beneficial, as well as recognizing and rewarding employees' achievements.",
+      "q4": "I think it would be helpful to have more tutorials or guides for new users to get familiar with the service faster.",
       "q5": "Likely",
-      "q6": "Overall, I'm happy with my job and the company, but I think there's always room for improvement. I appreciate the efforts to listen to employees' feedback and make positive changes.",
-      "q7": "1-2 years",
-      "q8": "My long-term career goal is to move into a leadership role and continue to contribute to the company's success and growth."
+      "q6": "Overall, I'm happy with the service, but I did experience some minor issues with loading times. Perhaps optimizing the performance could enhance the user experience.",
+      "q7": "Online Search"
     }
   },
   {
-    "userId": "u_141414",
+    "userId": "u_121212",
     "survey": "Website Feedback Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I like the simplicity and ease of navigation on the website.",
+      "q2": "The website is easy to navigate and has a clean design.",
       "q3": [
         "Search Function",
         "Product Information"
       ],
-      "q4": "I think the website could be improved by adding more interactive features and updating the content more frequently.",
+      "q4": "I think the website could benefit from more interactive features and regular updates with fresh content.",
       "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the website, but I think it could benefit from a more modern design.",
-      "q7": "Online Search",
-      "q8": "The design and layout are clean and easy to use, but could be more visually appealing."
+      "q6": "Overall, I'm satisfied with the website, but I look forward to seeing future improvements.",
+      "q7": "Somewhat Better"
     }
   },
   {
-    "userId": "u_141414",
-    "survey": "Event Evaluation Survey",
-    "answers": {
-      "q1": "Good",
-      "q2": "I enjoyed the variety of topics covered by the keynote speakers and the opportunity to network with professionals in my field.",
-      "q3": [
-        "Networking Opportunities",
-        "Workshops and Sessions"
-      ],
-      "q4": "Consider offering more interactive sessions and providing a mobile app for attendees to access event information and connect with each other.",
-      "q5": "Likely",
-      "q6": "The event was well-organized, and the venue was convenient. However, the food options could be improved.",
-      "q7": "Social Media"
-    }
-  },
-  {
-    "userId": "u_151515",
+    "userId": "u_131313",
     "survey": "Product Feedback Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I like the user-friendly interface and the ability to easily track my team's progress.",
+      "q2": "I like the user-friendly interface and the ability to easily track progress.",
       "q3": [
         "Feature A",
         "Feature B"
       ],
       "q4": "I think the product could be improved by adding more customization options and integrating with other tools we use.",
       "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the product and would like to see more frequent updates with new features.",
-      "q7": "Online Search",
-      "q8": "The pricing seems reasonable for the value we get from the product, but I think there could be more tiered options for smaller teams."
+      "q6": "Overall, I'm satisfied with the product, but I'd like to see more frequent updates with new features.",
+      "q7": "Somewhat Better"
+    }
+  },
+  {
+    "userId": "u_141414",
+    "survey": "Website Feedback Survey",
+    "answers": {
+      "q1": "Good",
+      "q2": "The website is easy to navigate and has a clean design.",
+      "q3": [
+        "Search Function",
+        "Product Information"
+      ],
+      "q4": "I think the website could benefit from more interactive features and regular updates with fresh content.",
+      "q5": "Likely",
+      "q6": "Overall, I'm satisfied with the website, but I look forward to seeing future improvements.",
+      "q7": "Somewhat Better"
     }
   },
   {
@@ -87,33 +68,31 @@
     "survey": "Website Feedback Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I like the simplicity and ease of navigation on the website.",
+      "q2": "The website is easy to navigate and has a clean design.",
       "q3": [
         "Search Function",
         "Product Information"
       ],
-      "q4": "I think the website could be improved by adding more interactive features and updating the content more frequently.",
+      "q4": "I think the website could benefit from more interactive features, such as tutorials or webinars.",
       "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the website, but I think it could benefit from a more modern design.",
-      "q7": "Online Search",
-      "q8": "The design and layout are clean and easy to use, but could be more visually appealing."
+      "q6": "Overall, I'm satisfied with the website, but I do wish there was a more comprehensive FAQ section.",
+      "q7": "About the Same"
     }
   },
   {
     "userId": "u_161616",
-    "survey": "Employee Engagement Survey",
+    "survey": "Website Feedback Survey",
     "answers": {
-      "q1": "Satisfied",
-      "q2": "I enjoy the collaborative environment and the opportunities to learn and grow within the company.",
+      "q1": "Good",
+      "q2": "The website is easy to navigate and has a clean design.",
       "q3": [
-        "Health Insurance",
-        "Paid Time Off"
+        "Search Function",
+        "Product Information"
       ],
-      "q4": "I think providing more flexible work arrangements and professional development opportunities would greatly improve my work experience.",
+      "q4": "I think the website could benefit from more interactive features and regular updates with fresh content.",
       "q5": "Likely",
-      "q6": "Overall, I'm happy with my job and the company, but I think there's always room for improvement and growth.",
-      "q7": "1-2 years",
-      "q8": "My long-term career goal is to move into a leadership position within the company, where I can continue to contribute to the company's success and help shape its future direction."
+      "q6": "Overall, I'm satisfied with the website, but I look forward to seeing future improvements.",
+      "q7": "Somewhat Better"
     }
   },
   {
@@ -121,67 +100,64 @@
     "survey": "Product Feedback Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I like the user interface and how easy it is to navigate through the different features.",
+      "q2": "The user interface is intuitive and easy to navigate, making it simple for our team to collaborate and manage projects.",
       "q3": [
         "Feature A",
         "Feature B"
       ],
-      "q4": "I think the product could be improved by adding more customization options and better integration with other tools.",
+      "q4": "I think the product could be improved by adding more customization options for reports and dashboards, as well as enhancing the mobile app experience.",
       "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the product, but I would like to see more frequent updates and new features.",
-      "q7": "Online Search",
-      "q8": "I think the pricing is reasonable, but I would like to see more flexible plans for smaller teams."
+      "q6": "Overall, I'm satisfied with the product, but I'd like to see more frequent updates with new features and improvements.",
+      "q7": "Somewhat Better"
     }
   },
   {
     "userId": "u_171717",
+    "survey": "Customer Satisfaction Survey",
+    "answers": {
+      "q1": "Satisfied",
+      "q2": "The user interface was very intuitive and easy to navigate, which made it simple for me to find the features I needed.",
+      "q3": [
+        "Feature A",
+        "Feature C"
+      ],
+      "q4": "I think it would be helpful to have more tutorials or guides for some of the more complex features, as it took me a while to figure out how to use them effectively.",
+      "q5": "Likely",
+      "q6": "Overall, I've been happy with the service and appreciate the regular updates and improvements that are made. Keep up the good work!",
+      "q7": "Online Search"
+    }
+  },
+  {
+    "userId": "u_181818",
+    "survey": "Event Evaluation Survey",
+    "answers": {
+      "q1": "Good",
+      "q2": "I enjoyed the variety of topics and the engagement of the speakers.",
+      "q3": [
+        "Networking Opportunities",
+        "Workshops and Sessions"
+      ],
+      "q4": "Consider adding more interactive sessions and providing more time for networking.",
+      "q5": "Likely",
+      "q6": "Overall, it was a well-organized event with valuable content.",
+      "q7": "Somewhat Better",
+      "q8": "More breaks between sessions and a wider range of food options would be appreciated."
+    }
+  },
+  {
+    "userId": "u_181818",
     "survey": "Product Feedback Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I like the user interface and how easy it is to navigate through the different features.",
+      "q2": "The user interface is intuitive and easy to navigate, which makes it simple for our team to use the product efficiently.",
       "q3": [
         "Feature A",
         "Feature B"
       ],
-      "q4": "I think the product could be improved by adding more customization options and better integration with other tools.",
+      "q4": "I think the product could be improved by adding more customization options and integrating it with other tools we use.",
       "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the product, but I would like to see more frequent updates and new features.",
-      "q7": "Online Search",
-      "q8": "I think the pricing is reasonable, but I would like to see more flexible plans for smaller teams."
-    }
-  },
-  {
-    "userId": "u_181818",
-    "survey": "Employee Engagement Survey",
-    "answers": {
-      "q1": "Satisfied",
-      "q2": "I enjoy the collaborative environment and the opportunities to learn and grow within the company.",
-      "q3": [
-        "Health Insurance",
-        "Paid Time Off"
-      ],
-      "q4": "I think providing more flexible working hours and additional training opportunities would greatly improve my work experience.",
-      "q5": "Likely",
-      "q6": "Overall, I'm happy with my job and the company, but I think there's always room for improvement and growth.",
-      "q7": "1-2 years",
-      "q8": "My long-term career goal is to move into a leadership position within the company, where I can continue to contribute to the company's success and help shape its future."
-    }
-  },
-  {
-    "userId": "u_181818",
-    "survey": "Website Feedback Survey",
-    "answers": {
-      "q1": "Good",
-      "q2": "I like the simplicity and ease of navigation on the website.",
-      "q3": [
-        "Search Function",
-        "Product Information"
-      ],
-      "q4": "I think the website could be improved by adding more interactive features and updating the content more frequently.",
-      "q5": "Likely",
-      "q6": "Overall, I'm satisfied with the website, but I think it could benefit from a more modern design.",
-      "q7": "Online Search",
-      "q8": "The design and layout are clean and easy to use, but could be more visually appealing."
+      "q6": "Overall, we're satisfied with the product, but it would be great to see more frequent updates with new features.",
+      "q7": "Somewhat Better"
     }
   },
   {
@@ -189,32 +165,32 @@
     "survey": "Event Evaluation Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I enjoyed the variety of topics covered by the keynote speakers and the opportunity to network with professionals in my field.",
+      "q2": "I enjoyed the variety of topics covered and the opportunity to network with other professionals in the field.",
       "q3": [
         "Networking Opportunities",
         "Workshops and Sessions"
       ],
-      "q4": "Consider offering more interactive sessions and providing a mobile app for attendees to access event schedules and materials.",
+      "q4": "Consider offering more interactive sessions and providing a mobile app for attendees to access event information and connect with each other.",
       "q5": "Likely",
-      "q6": "The event was well-organized, and the venue was convenient. However, the food options could be improved.",
-      "q7": "Social Media"
+      "q6": "Overall, I was satisfied with the event and appreciate the effort that went into organizing it. Keep up the good work!",
+      "q7": "Somewhat Better",
+      "q8": "Perhaps offer more breaks throughout the day and consider having a more diverse range of speakers and topics."
     }
   },
   {
     "userId": "u_202020",
-    "survey": "Employee Engagement Survey",
+    "survey": "Website Feedback Survey",
     "answers": {
-      "q1": "Satisfied",
-      "q2": "I enjoy the collaborative environment and the opportunities for professional growth.",
+      "q1": "Good",
+      "q2": "The website is easy to navigate and has a clean design.",
       "q3": [
-        "Health Insurance",
-        "Paid Time Off"
+        "Search Function",
+        "Product Information"
       ],
-      "q4": "I think providing more training and development opportunities would greatly enhance my work experience.",
+      "q4": "I think the website could benefit from more interactive features and regular updates with fresh content.",
       "q5": "Likely",
-      "q6": "Overall, I'm happy with my job and the company, but I think there's always room for improvement in terms of work-life balance.",
-      "q7": "1-2 years",
-      "q8": "My long-term career goal is to move into a leadership position where I can mentor and guide others in their professional development."
+      "q6": "Overall, my experience with the website has been positive, but I look forward to seeing the improvements suggested.",
+      "q7": "Somewhat Better"
     }
   },
   {
@@ -222,32 +198,48 @@
     "survey": "Event Evaluation Survey",
     "answers": {
       "q1": "Good",
-      "q2": "I enjoyed the variety of topics covered and the opportunity to network with other professionals in the field.",
+      "q2": "I enjoyed the variety of topics and the engagement of the speakers.",
       "q3": [
         "Networking Opportunities",
         "Workshops and Sessions"
       ],
-      "q4": "Consider offering more interactive sessions and providing more time for networking.",
+      "q4": "Consider adding more interactive sessions and providing more time for networking.",
       "q5": "Likely",
-      "q6": "Overall, I was satisfied with the event and look forward to attending future events.",
-      "q7": "Social Media"
+      "q6": "Overall, it was a well-organized event with valuable content.",
+      "q7": "Somewhat Better",
+      "q8": "More breaks between sessions would be helpful to allow attendees to process the information and recharge."
     }
   },
   {
     "userId": "u_212121",
-    "survey": "Employee Engagement Survey",
+    "survey": "Customer Satisfaction Survey",
     "answers": {
       "q1": "Satisfied",
-      "q2": "I enjoy the collaborative team environment and the opportunities for professional growth.",
+      "q2": "The ease of use and intuitive interface of the platform made it easy for me to navigate and find the features I needed.",
       "q3": [
-        "Health Insurance",
-        "Paid Time Off"
+        "Feature A",
+        "Feature B"
       ],
-      "q4": "I think providing more flexible work arrangements and recognizing employee achievements would greatly improve our work experience.",
+      "q4": "I think the service could be improved by adding more customization options and better integration with other tools we use.",
       "q5": "Likely",
-      "q6": "Overall, I'm happy with my job and the company, but I think there's always room for improvement in terms of communication and transparency.",
-      "q7": "1-2 years",
-      "q8": "My long-term career goal is to move into a leadership role where I can mentor and guide others, while continuing to contribute to the company's growth and success."
+      "q6": "Overall, I'm happy with the service and appreciate the support team's responsiveness to my questions and concerns.",
+      "q7": "Online Search"
+    }
+  },
+  {
+    "userId": "u_212121",
+    "survey": "Website Feedback Survey",
+    "answers": {
+      "q1": "Good",
+      "q2": "The simplicity and ease of navigation",
+      "q3": [
+        "Search Function",
+        "Product Information"
+      ],
+      "q4": "Improve the mobile responsiveness and add more interactive features",
+      "q5": "Likely",
+      "q6": "Overall, it's a great website, but sometimes it can be slow to load",
+      "q7": "Somewhat Better"
     }
   }
 ]

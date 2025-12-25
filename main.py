@@ -1,5 +1,5 @@
 import sys
-from formbricks.cli import handle_formbricks_command
+from utils.cli import handle_formbricks_command
 
 def main():
     if len(sys.argv) < 3:

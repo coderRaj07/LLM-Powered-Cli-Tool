@@ -5,7 +5,7 @@ from pathlib import Path
 from cerebras.cloud.sdk import Cerebras
 from dotenv import load_dotenv
 
-from formbricks.llm_json import parse_llm_json
+from utils.llm_json import parse_llm_json
 
 load_dotenv()
 

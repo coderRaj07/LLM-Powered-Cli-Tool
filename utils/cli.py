@@ -1,6 +1,6 @@
-from formbricks.generate import generate
-from formbricks.docker import docker_up, docker_down
-from formbricks.seed import seed
+from utils.generate import generate
+from utils.docker import docker_up, docker_down
+from utils.seed import seed
 
 def handle_formbricks_command(command: str):
     if command == "up":
