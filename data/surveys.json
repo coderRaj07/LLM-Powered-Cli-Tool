@@ -1,0 +1,833 @@
+[
+  {
+    "name": "Customer Satisfaction Survey",
+    "status": "inProgress",
+    "type": "link",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How would you rate your overall satisfaction with our service?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c1",
+            "label": {
+              "default": "Very Satisfied"
+            }
+          },
+          {
+            "id": "c2",
+            "label": {
+              "default": "Satisfied"
+            }
+          },
+          {
+            "id": "c3",
+            "label": {
+              "default": "Neutral"
+            }
+          },
+          {
+            "id": "c4",
+            "label": {
+              "default": "Dissatisfied"
+            }
+          },
+          {
+            "id": "c5",
+            "label": {
+              "default": "Very Dissatisfied"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q2",
+        "type": "openText",
+        "headline": {
+          "default": "What did you like most about our service?"
+        },
+        "required": false
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoiceMulti",
+        "headline": {
+          "default": "Which of the following features did you find most useful?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c6",
+            "label": {
+              "default": "Feature A"
+            }
+          },
+          {
+            "id": "c7",
+            "label": {
+              "default": "Feature B"
+            }
+          },
+          {
+            "id": "c8",
+            "label": {
+              "default": "Feature C"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q4",
+        "type": "openText",
+        "headline": {
+          "default": "How can we improve our service?"
+        },
+        "required": false
+      },
+      {
+        "id": "q5",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How likely are you to recommend our service to a friend or colleague?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c9",
+            "label": {
+              "default": "Very Likely"
+            }
+          },
+          {
+            "id": "c10",
+            "label": {
+              "default": "Likely"
+            }
+          },
+          {
+            "id": "c11",
+            "label": {
+              "default": "Not Likely"
+            }
+          },
+          {
+            "id": "c12",
+            "label": {
+              "default": "Not at All Likely"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q6",
+        "type": "openText",
+        "headline": {
+          "default": "Do you have any other comments or suggestions about our service?"
+        },
+        "required": false
+      },
+      {
+        "id": "q7",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How did you hear about our service?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c13",
+            "label": {
+              "default": "Social Media"
+            }
+          },
+          {
+            "id": "c14",
+            "label": {
+              "default": "Word of Mouth"
+            }
+          },
+          {
+            "id": "c15",
+            "label": {
+              "default": "Online Search"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      }
+    ]
+  },
+  {
+    "name": "Employee Engagement Survey",
+    "status": "inProgress",
+    "type": "link",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How would you rate your overall job satisfaction?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c16",
+            "label": {
+              "default": "Very Satisfied"
+            }
+          },
+          {
+            "id": "c17",
+            "label": {
+              "default": "Satisfied"
+            }
+          },
+          {
+            "id": "c18",
+            "label": {
+              "default": "Neutral"
+            }
+          },
+          {
+            "id": "c19",
+            "label": {
+              "default": "Dissatisfied"
+            }
+          },
+          {
+            "id": "c20",
+            "label": {
+              "default": "Very Dissatisfied"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q2",
+        "type": "openText",
+        "headline": {
+          "default": "What do you like most about your job?"
+        },
+        "required": false
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoiceMulti",
+        "headline": {
+          "default": "Which of the following benefits do you value most?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c21",
+            "label": {
+              "default": "Health Insurance"
+            }
+          },
+          {
+            "id": "c22",
+            "label": {
+              "default": "Retirement Plan"
+            }
+          },
+          {
+            "id": "c23",
+            "label": {
+              "default": "Paid Time Off"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q4",
+        "type": "openText",
+        "headline": {
+          "default": "How can we improve your work experience?"
+        },
+        "required": false
+      },
+      {
+        "id": "q5",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How likely are you to recommend our company as a place to work?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c24",
+            "label": {
+              "default": "Very Likely"
+            }
+          },
+          {
+            "id": "c25",
+            "label": {
+              "default": "Likely"
+            }
+          },
+          {
+            "id": "c26",
+            "label": {
+              "default": "Not Likely"
+            }
+          },
+          {
+            "id": "c27",
+            "label": {
+              "default": "Not at All Likely"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q6",
+        "type": "openText",
+        "headline": {
+          "default": "Do you have any other comments or suggestions about your job or the company?"
+        },
+        "required": false
+      },
+      {
+        "id": "q7",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How long have you been with the company?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c28",
+            "label": {
+              "default": "Less than 1 year"
+            }
+          },
+          {
+            "id": "c29",
+            "label": {
+              "default": "1-2 years"
+            }
+          },
+          {
+            "id": "c30",
+            "label": {
+              "default": "2-5 years"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q8",
+        "type": "openText",
+        "headline": {
+          "default": "What are your long-term career goals?"
+        },
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "Product Feedback Survey",
+    "status": "inProgress",
+    "type": "link",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How would you rate the overall quality of our product?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c31",
+            "label": {
+              "default": "Excellent"
+            }
+          },
+          {
+            "id": "c32",
+            "label": {
+              "default": "Good"
+            }
+          },
+          {
+            "id": "c33",
+            "label": {
+              "default": "Fair"
+            }
+          },
+          {
+            "id": "c34",
+            "label": {
+              "default": "Poor"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q2",
+        "type": "openText",
+        "headline": {
+          "default": "What do you like most about our product?"
+        },
+        "required": false
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoiceMulti",
+        "headline": {
+          "default": "Which of the following features do you use most often?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c35",
+            "label": {
+              "default": "Feature A"
+            }
+          },
+          {
+            "id": "c36",
+            "label": {
+              "default": "Feature B"
+            }
+          },
+          {
+            "id": "c37",
+            "label": {
+              "default": "Feature C"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q4",
+        "type": "openText",
+        "headline": {
+          "default": "How can we improve our product?"
+        },
+        "required": false
+      },
+      {
+        "id": "q5",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How likely are you to recommend our product to a friend or colleague?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c38",
+            "label": {
+              "default": "Very Likely"
+            }
+          },
+          {
+            "id": "c39",
+            "label": {
+              "default": "Likely"
+            }
+          },
+          {
+            "id": "c40",
+            "label": {
+              "default": "Not Likely"
+            }
+          },
+          {
+            "id": "c41",
+            "label": {
+              "default": "Not at All Likely"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q6",
+        "type": "openText",
+        "headline": {
+          "default": "Do you have any other comments or suggestions about our product?"
+        },
+        "required": false
+      },
+      {
+        "id": "q7",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How did you hear about our product?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c42",
+            "label": {
+              "default": "Social Media"
+            }
+          },
+          {
+            "id": "c43",
+            "label": {
+              "default": "Word of Mouth"
+            }
+          },
+          {
+            "id": "c44",
+            "label": {
+              "default": "Online Search"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q8",
+        "type": "openText",
+        "headline": {
+          "default": "What are your thoughts on the pricing of our product?"
+        },
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "Event Evaluation Survey",
+    "status": "inProgress",
+    "type": "link",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How would you rate the overall quality of the event?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c45",
+            "label": {
+              "default": "Excellent"
+            }
+          },
+          {
+            "id": "c46",
+            "label": {
+              "default": "Good"
+            }
+          },
+          {
+            "id": "c47",
+            "label": {
+              "default": "Fair"
+            }
+          },
+          {
+            "id": "c48",
+            "label": {
+              "default": "Poor"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q2",
+        "type": "openText",
+        "headline": {
+          "default": "What did you enjoy most about the event?"
+        },
+        "required": false
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoiceMulti",
+        "headline": {
+          "default": "Which of the following aspects of the event did you find most valuable?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c49",
+            "label": {
+              "default": "Networking Opportunities"
+            }
+          },
+          {
+            "id": "c50",
+            "label": {
+              "default": "Keynote Speakers"
+            }
+          },
+          {
+            "id": "c51",
+            "label": {
+              "default": "Workshops and Sessions"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q4",
+        "type": "openText",
+        "headline": {
+          "default": "How can we improve future events?"
+        },
+        "required": false
+      },
+      {
+        "id": "q5",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How likely are you to attend another event hosted by our organization?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c52",
+            "label": {
+              "default": "Very Likely"
+            }
+          },
+          {
+            "id": "c53",
+            "label": {
+              "default": "Likely"
+            }
+          },
+          {
+            "id": "c54",
+            "label": {
+              "default": "Not Likely"
+            }
+          },
+          {
+            "id": "c55",
+            "label": {
+              "default": "Not at All Likely"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q6",
+        "type": "openText",
+        "headline": {
+          "default": "Do you have any other comments or suggestions about the event?"
+        },
+        "required": false
+      },
+      {
+        "id": "q7",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How did you hear about the event?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c56",
+            "label": {
+              "default": "Social Media"
+            }
+          },
+          {
+            "id": "c57",
+            "label": {
+              "default": "Word of Mouth"
+            }
+          },
+          {
+            "id": "c58",
+            "label": {
+              "default": "Online Search"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      }
+    ]
+  },
+  {
+    "name": "Website Feedback Survey",
+    "status": "inProgress",
+    "type": "link",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How would you rate the overall user experience of our website?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c59",
+            "label": {
+              "default": "Excellent"
+            }
+          },
+          {
+            "id": "c60",
+            "label": {
+              "default": "Good"
+            }
+          },
+          {
+            "id": "c61",
+            "label": {
+              "default": "Fair"
+            }
+          },
+          {
+            "id": "c62",
+            "label": {
+              "default": "Poor"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q2",
+        "type": "openText",
+        "headline": {
+          "default": "What do you like most about our website?"
+        },
+        "required": false
+      },
+      {
+        "id": "q3",
+        "type": "multipleChoiceMulti",
+        "headline": {
+          "default": "Which of the following features do you use most often on our website?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c63",
+            "label": {
+              "default": "Search Function"
+            }
+          },
+          {
+            "id": "c64",
+            "label": {
+              "default": "Product Information"
+            }
+          },
+          {
+            "id": "c65",
+            "label": {
+              "default": "Contact Form"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q4",
+        "type": "openText",
+        "headline": {
+          "default": "How can we improve our website?"
+        },
+        "required": false
+      },
+      {
+        "id": "q5",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How likely are you to recommend our website to a friend or colleague?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c66",
+            "label": {
+              "default": "Very Likely"
+            }
+          },
+          {
+            "id": "c67",
+            "label": {
+              "default": "Likely"
+            }
+          },
+          {
+            "id": "c68",
+            "label": {
+              "default": "Not Likely"
+            }
+          },
+          {
+            "id": "c69",
+            "label": {
+              "default": "Not at All Likely"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q6",
+        "type": "openText",
+        "headline": {
+          "default": "Do you have any other comments or suggestions about our website?"
+        },
+        "required": false
+      },
+      {
+        "id": "q7",
+        "type": "multipleChoiceSingle",
+        "headline": {
+          "default": "How did you hear about our website?"
+        },
+        "required": true,
+        "choices": [
+          {
+            "id": "c70",
+            "label": {
+              "default": "Social Media"
+            }
+          },
+          {
+            "id": "c71",
+            "label": {
+              "default": "Word of Mouth"
+            }
+          },
+          {
+            "id": "c72",
+            "label": {
+              "default": "Online Search"
+            }
+          }
+        ],
+        "shuffleOption": "none"
+      },
+      {
+        "id": "q8",
+        "type": "openText",
+        "headline": {
+          "default": "What are your thoughts on the design and layout of our website?"
+        },
+        "required": false
+      }
+    ]
+  }
+]

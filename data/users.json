@@ -1,0 +1,162 @@
+[
+  {
+    "id": "u_111111",
+    "name": "Emily Chen",
+    "email": "emily.chen@company.com",
+    "role": "owner",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_222222",
+    "name": "David Lee",
+    "email": "david.lee@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_333333",
+    "name": "Sophia Patel",
+    "email": "sophia.patel@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_444444",
+    "name": "Oliver Brown",
+    "email": "oliver.brown@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_555555",
+    "name": "Ava Kim",
+    "email": "ava.kim@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_666666",
+    "name": "Ethan Hall",
+    "email": "ethan.hall@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_777777",
+    "name": "Liam White",
+    "email": "liam.white@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_888888",
+    "name": "Mia Davis",
+    "email": "mia.davis@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_999999",
+    "name": "Noah Martin",
+    "email": "noah.martin@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_101010",
+    "name": "Isabella Taylor",
+    "email": "isabella.taylor@company.com",
+    "role": "manager",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_121212",
+    "name": "Jackson Harris",
+    "email": "jackson.harris@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_131313",
+    "name": "Charlotte Thompson",
+    "email": "charlotte.thompson@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_141414",
+    "name": "Alexander Garcia",
+    "email": "alexander.garcia@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_151515",
+    "name": "Abigail Martinez",
+    "email": "abigail.martinez@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_161616",
+    "name": "Benjamin Rodriguez",
+    "email": "benjamin.rodriguez@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_171717",
+    "name": "Harper Lopez",
+    "email": "harper.lopez@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_181818",
+    "name": "Logan Gonzalez",
+    "email": "logan.gonzalez@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_191919",
+    "name": "Evelyn Sanders",
+    "email": "evelyn.sanders@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_202020",
+    "name": "William Price",
+    "email": "william.price@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  },
+  {
+    "id": "u_212121",
+    "name": "Julia Russell",
+    "email": "julia.russell@company.com",
+    "role": "member",
+    "isActive": true,
+    "teams": []
+  }
+]
