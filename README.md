@@ -1,4 +1,4 @@
-# Formbricks Data Seeder 🚀
+# LLM Powered CLI tool for Formbricks Data Seeding 🚀
 
 A Python-based CLI tool to programmatically run, populate, and interact with a local Formbricks instance using APIs and realistic data generated via **Cerebras AI**.
 
